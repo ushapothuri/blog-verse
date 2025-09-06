@@ -37,3 +37,5 @@ console.log(typeof person.name)
 
 console.log(person.age)
 console.log(typeof person.age)
+console.log(person["name"])
+console.log(person("age"))
